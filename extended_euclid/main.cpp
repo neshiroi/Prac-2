@@ -1,4 +1,4 @@
-#include "task2.h"
+#include "extended_euclid.h"
 
 using namespace std;
 

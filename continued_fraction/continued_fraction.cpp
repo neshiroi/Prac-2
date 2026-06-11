@@ -1,4 +1,4 @@
-#include "task6.h"
+#include "continued_fraction.h"
 
 using namespace std;
 

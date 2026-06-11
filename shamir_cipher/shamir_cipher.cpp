@@ -1,4 +1,4 @@
-#include "task4.h"
+#include "shamir_cipher.h"
 
 using namespace std;
 
