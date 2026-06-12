@@ -1,8 +1,7 @@
 #pragma once
 
 #include <iostream>
-#include <cstdint>
-
+#include <cstdint> 
 using namespace std;
 
 void extendedEuclid(

@@ -17,7 +17,7 @@ int64_t modPowBinary(
     int64_t a,
     int64_t x,
     int64_t p,
-    bool show // show для вывода промежуточных шагов , true - включен , false - выключен
+    bool show 
 );
 
 int64_t modPowFermat(
